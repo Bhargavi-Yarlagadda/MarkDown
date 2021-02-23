@@ -52,11 +52,11 @@ insta(https://www.instagram.com/)
   - [] hi
   - [x] bye
  
- **code**
- '''python
- def hii():
-    print("hii... welcome")
- '''
+ **code**    
+ '''        
+ def hii ():       
+  print("hii... welcome")     
+ '''   
  
  ***Emojis***     
  :smirk:    
