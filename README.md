@@ -53,9 +53,9 @@ insta(https://www.instagram.com/)
   - [x] bye
  
  **code**    
- '''        
+ '''python            
  def hii ():       
-  print("hii... welcome")     
+    print("hii... welcome")     
  '''   
  
  ***Emojis***     
